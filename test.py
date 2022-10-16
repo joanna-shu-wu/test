@@ -1,2 +1,3 @@
-print('bonjour')
+print('salut')
+
 
