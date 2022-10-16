@@ -1,6 +1,2 @@
-print('salut')
-<<<<<<< HEAD
-=======
-
->>>>>>> de6e49f20705c121072765755dbc7435366d4c74
+print('enchante')
 
